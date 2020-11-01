@@ -1,4 +1,6 @@
-# User inputs a Jpanaese verb infinitive, outputs verb definition, Kanji characterization, as well as the present, negative, -te and -ta conjugation forms
+#Japanese Verb Conjugator v1.0
+
+# User inputs a Japanaese verb infinitive, outputs verb definition, Kanji characterization, as well as the present, negative, -te and -ta conjugation forms
 
 import re
 from os import system, name 
